@@ -1,2 +1,3 @@
 # hello-world
 Store ideas, resources
+I like to hike, bike, run, and occasionally choke out or armbar an opponent in jiu jitsu class. After completing a completely useless degree in Business, I realized I would have to endure working with complete idiots, regardless of what job I could find, unless I could develop some practical skills that I could actually use and not be completely bored out of my mind. I am completely a degree in Computer Science, but it seems more like a lot of general theory and not a whole lot of actual coding. Hopefully I will be able to combine that theory with coding I learn on my own.
